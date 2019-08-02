@@ -1,0 +1,2 @@
+# reggie
+testing sequelize
